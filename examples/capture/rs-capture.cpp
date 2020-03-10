@@ -2,7 +2,7 @@
 // Copyright(c) 2017 Intel Corporation. All Rights Reserved.
 
 #include <librealsense2/rs.hpp> // Include RealSense Cross Platform API
-#include "example.hpp"          // Include short list of convenience functions for rendering
+#include "../example.hpp"          // Include short list of convenience functions for rendering
 
 // Capture Example demonstrates how to
 // capture depth and color video streams and render them to the screen
