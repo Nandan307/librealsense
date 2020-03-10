@@ -1,0 +1,1 @@
+cd examples/ &&  g++ -std=c++11 -o tracking_exec  rs-tracking-and-depth.cpp -lrealsense2 -lGL -lGLU -lglfw  && ./tracking_exec
